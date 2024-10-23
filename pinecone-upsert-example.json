@@ -1,0 +1,12 @@
+{
+  "vectors": [
+    {
+      "id": "<unique_id>",
+      "values": [<embedding>],
+      "metadata": {
+        "location": "<location>",
+        "resources": "<resources>"
+      }
+    }
+  ]
+}
